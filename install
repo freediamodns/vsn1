@@ -33,4 +33,3 @@ echo "✅ Enabling and starting PufferPanel service..."
 sudo systemctl enable --now pufferpanel
 
 echo "🔥 PufferPanel is installed and running!"
-echo "📢 Subscribe to my YouTube channel for more content! 👉 https://youtube.com/@mahimking11 🎥🎮"
